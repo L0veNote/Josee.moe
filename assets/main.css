@@ -24,7 +24,7 @@ body:before {
 	transform: scale(1);
 	width: 100vw;
 	z-index: 0;
-	background-image: linear-gradient(to top, rgba(0,0,0,0.941), rgba(0,0,0,0.941)), url('images/bg.gif');
+	background-image: linear-gradient(to top, rgba(0, 0, 0, 0.822), rgba(0, 0, 0, 0.822)), url('images/bg.gif');
 	background-position: 0% 0%, bottom;
 	background-repeat: repeat, no-repeat;
 	background-size: auto, cover;
